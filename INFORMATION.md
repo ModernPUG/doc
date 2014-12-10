@@ -67,6 +67,14 @@
   - 문서화 도구
   - http://www.phpdoc.org/
 
+* Phing
+  - 프로젝트 빌드 도구
+  - http://www.phing.info/
+
+* Phinx
+  - 데이터베이스 마이그레이션 도구
+  - https://phinx.org/
+
 * Pimple
   - 의존성 주입 컨테이너 (Dependency Injection Container)
   - http://pimple.sensiolabs.org/
