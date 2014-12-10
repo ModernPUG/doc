@@ -16,6 +16,14 @@
   - 유용한 PHP 정보가 가득한 사이트
   - http://www.sitepoint.com/php/
 
+* tut+
+  - 유용한 PHP 정보가 가득한 사이트
+  - http://code.tutsplus.com/categories/php
+
+* Awesome PHP
+  - PHP 프레임워크, 도구, 라이브러리 총정리
+  - https://github.com/ziadoz/awesome-php
+
 
 ## 도구 ##
 
@@ -64,11 +72,15 @@
   - http://pimple.sensiolabs.org/
 
 * PHPStorm
-  - PHP 전용 IDE
+  - PHP 전용 IDE (유료)
   - https://www.jetbrains.com/phpstorm/
 
+* Sublime Text
+  - 인기 있는 개발자용 에디터 (유료)
+  - http://www.sublimetext.com/
+
 * ATOM
-  - GitHub에서 만든 개발자용 에디터
+  - GitHub에서 만든 개발자용 에디터 (무료)
   - https://atom.io/
 
 
