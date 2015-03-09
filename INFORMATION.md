@@ -3,7 +3,7 @@
 * PHP: The Right Way
   - Modern PHP를 배우기 위한 최고의 지침서
   - 영어: http://www.phptherightway.com/
-  - 한국어: http://wafe.github.io/php-the-right-way/
+  - 한국어: http://modernpug.github.io/php-the-right-way/
 
 
 ## 사이트 ##
@@ -30,6 +30,7 @@
 * Composer
   - 최고의 패키지(라이브러리) 관리자
   - https://getcomposer.org/
+  - 한국어 매뉴얼: http://xpressengine.github.io/Composer-korean-docs/
 
 * Packagist
   - Composer와 함께 하는 패키지 검색 사이트
