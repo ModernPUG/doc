@@ -5,6 +5,8 @@
   - 영어: http://www.phptherightway.com/
   - 한국어: http://modernpug.github.io/php-the-right-way/
 
+* Modern PHP User 정기모임 발표 자료
+  - https://github.com/ModernPUG/meetup
 
 ## 사이트 ##
 
@@ -36,6 +38,10 @@
   - Composer와 함께 하는 패키지 검색 사이트
   - https://packagist.org/
 
+* WordPress Packagist
+ - 워드프레스 플러그인을 검색하는 패키지 검색 사이트
+ - http://wpackagist.org/
+ 
 * php.activerecord
   - 간단한 ActiveRecord 라이브러리
   - http://www.phpactiverecord.org/
@@ -44,6 +50,10 @@
   - 유닛 테스트
   - https://phpunit.de/
 
+* Codeception
+  - BDD 테스팅 프레임워크
+  - http://codeception.com/
+  
 * PHP Mess Detector
   - 정적 분석 도구
   - http://phpmd.org/
