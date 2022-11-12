@@ -31,6 +31,9 @@
 * 모던 PHP 유저 그룹 홈페이지
   - http://modernpug.org/
 
+* 디자인 패턴을 예시와 언어별 코드로 설명해주는 사이트
+  - https://refactoring.guru/
+
 ## 도구 ##
 
 * Composer
